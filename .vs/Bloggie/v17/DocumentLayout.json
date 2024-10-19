@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nupur\\source\\repos\\Bloggie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF1C9C5-20F6-4592-8BD1-1BFCEAFDC126}|Bloggie.Web\\Bloggie.Web.csproj|c:\\users\\nupur\\source\\repos\\bloggie\\bloggie.web\\repositories\\tagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF1C9C5-20F6-4592-8BD1-1BFCEAFDC126}|Bloggie.Web\\Bloggie.Web.csproj|solutionrelative:bloggie.web\\repositories\\tagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF1C9C5-20F6-4592-8BD1-1BFCEAFDC126}|Bloggie.Web\\Bloggie.Web.csproj|c:\\users\\nupur\\source\\repos\\bloggie\\bloggie.web\\controllers\\admintagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF1C9C5-20F6-4592-8BD1-1BFCEAFDC126}|Bloggie.Web\\Bloggie.Web.csproj|solutionrelative:bloggie.web\\controllers\\admintagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF1C9C5-20F6-4592-8BD1-1BFCEAFDC126}|Bloggie.Web\\Bloggie.Web.csproj|c:\\users\\nupur\\source\\repos\\bloggie\\bloggie.web\\data\\bloggiedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF1C9C5-20F6-4592-8BD1-1BFCEAFDC126}|Bloggie.Web\\Bloggie.Web.csproj|solutionrelative:bloggie.web\\data\\bloggiedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF1C9C5-20F6-4592-8BD1-1BFCEAFDC126}|Bloggie.Web\\Bloggie.Web.csproj|c:\\users\\nupur\\source\\repos\\bloggie\\bloggie.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF1C9C5-20F6-4592-8BD1-1BFCEAFDC126}|Bloggie.Web\\Bloggie.Web.csproj|solutionrelative:bloggie.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF1C9C5-20F6-4592-8BD1-1BFCEAFDC126}|Bloggie.Web\\Bloggie.Web.csproj|c:\\users\\nupur\\source\\repos\\bloggie\\bloggie.web\\repositories\\itagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDF1C9C5-20F6-4592-8BD1-1BFCEAFDC126}|Bloggie.Web\\Bloggie.Web.csproj|solutionrelative:bloggie.web\\repositories\\itagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF1C9C5-20F6-4592-8BD1-1BFCEAFDC126}|Bloggie.Web\\Bloggie.Web.csproj|c:\\users\\nupur\\source\\repos\\bloggie\\bloggie.web\\bloggie.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CDF1C9C5-20F6-4592-8BD1-1BFCEAFDC126}|Bloggie.Web\\Bloggie.Web.csproj|solutionrelative:bloggie.web\\bloggie.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDF1C9C5-20F6-4592-8BD1-1BFCEAFDC126}|Bloggie.Web\\Bloggie.Web.csproj|c:\\users\\nupur\\source\\repos\\bloggie\\bloggie.web\\views\\admintags\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDF1C9C5-20F6-4592-8BD1-1BFCEAFDC126}|Bloggie.Web\\Bloggie.Web.csproj|solutionrelative:bloggie.web\\views\\admintags\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BloggieDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\nupur\\source\\repos\\Bloggie\\Bloggie.Web\\Data\\BloggieDbContext.cs",
+              "RelativeDocumentMoniker": "Bloggie.Web\\Data\\BloggieDbContext.cs",
+              "ToolTip": "C:\\Users\\nupur\\source\\repos\\Bloggie\\Bloggie.Web\\Data\\BloggieDbContext.cs",
+              "RelativeToolTip": "Bloggie.Web\\Data\\BloggieDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T13:27:13.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nupur\\source\\repos\\Bloggie\\Bloggie.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Bloggie.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\nupur\\source\\repos\\Bloggie\\Bloggie.Web\\Program.cs",
+              "RelativeToolTip": "Bloggie.Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T13:07:11.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TagRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nupur\\source\\repos\\Bloggie\\Bloggie.Web\\Repositories\\TagRepository.cs",
+              "RelativeDocumentMoniker": "Bloggie.Web\\Repositories\\TagRepository.cs",
+              "ToolTip": "C:\\Users\\nupur\\source\\repos\\Bloggie\\Bloggie.Web\\Repositories\\TagRepository.cs",
+              "RelativeToolTip": "Bloggie.Web\\Repositories\\TagRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T13:05:52.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITagRepository.cs",
+              "DocumentMoniker": "C:\\Users\\nupur\\source\\repos\\Bloggie\\Bloggie.Web\\Repositories\\ITagRepository.cs",
+              "RelativeDocumentMoniker": "Bloggie.Web\\Repositories\\ITagRepository.cs",
+              "ToolTip": "C:\\Users\\nupur\\source\\repos\\Bloggie\\Bloggie.Web\\Repositories\\ITagRepository.cs",
+              "RelativeToolTip": "Bloggie.Web\\Repositories\\ITagRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T12:58:28.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bloggie.Web",
+              "DocumentMoniker": "C:\\Users\\nupur\\source\\repos\\Bloggie\\Bloggie.Web\\Bloggie.Web.csproj",
+              "RelativeDocumentMoniker": "Bloggie.Web\\Bloggie.Web.csproj",
+              "ToolTip": "C:\\Users\\nupur\\source\\repos\\Bloggie\\Bloggie.Web\\Bloggie.Web.csproj",
+              "RelativeToolTip": "Bloggie.Web\\Bloggie.Web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-19T12:57:50.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\nupur\\source\\repos\\Bloggie\\Bloggie.Web\\Views\\AdminTags\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Bloggie.Web\\Views\\AdminTags\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\nupur\\source\\repos\\Bloggie\\Bloggie.Web\\Views\\AdminTags\\Edit.cshtml",
+              "RelativeToolTip": "Bloggie.Web\\Views\\AdminTags\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-19T12:50:06.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminTagsController.cs",
+              "DocumentMoniker": "C:\\Users\\nupur\\source\\repos\\Bloggie\\Bloggie.Web\\Controllers\\AdminTagsController.cs",
+              "RelativeDocumentMoniker": "Bloggie.Web\\Controllers\\AdminTagsController.cs",
+              "ToolTip": "C:\\Users\\nupur\\source\\repos\\Bloggie\\Bloggie.Web\\Controllers\\AdminTagsController.cs",
+              "RelativeToolTip": "Bloggie.Web\\Controllers\\AdminTagsController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T12:43:55.324Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
