@@ -140,3 +140,4 @@ C:\Users\nupur\source\repos\Bloggie\Bloggie.Web\obj\Debug\net8.0\refint\Bloggie.
 C:\Users\nupur\source\repos\Bloggie\Bloggie.Web\obj\Debug\net8.0\Bloggie.Web.pdb
 C:\Users\nupur\source\repos\Bloggie\Bloggie.Web\obj\Debug\net8.0\Bloggie.Web.genruntimeconfig.cache
 C:\Users\nupur\source\repos\Bloggie\Bloggie.Web\obj\Debug\net8.0\ref\Bloggie.Web.dll
+C:\Users\nupur\source\repos\Bloggie\Bloggie.Web\obj\Debug\net8.0\Bloggie.Web.sourcelink.json
